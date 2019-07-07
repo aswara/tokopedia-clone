@@ -1,5 +1,5 @@
 {
-  "name": "MuslimPintar",
+  "name": "TokopediaUiClone",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,12 +8,19 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "native-base": "^2.12.1",
     "react": "16.6.3",
+    "react-localization": "^1.0.13",
     "react-native": "0.57.8",
     "react-native-gesture-handler": "^1.0.12",
+    "react-native-swiper": "^1.5.14",
+    "react-native-vector-icons": "^6.6.0",
     "react-navigation": "^3.0.9",
     "react-redux": "^6.0.0",
     "redux": "^4.0.1",
+    "redux-form": "^8.2.4",
+    "redux-persist": "^5.10.0",
+    "redux-promise-middleware": "^6.1.1",
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
