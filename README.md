@@ -1,12 +1,7 @@
 
 ## Tokopedia Clone React Native
 
-![Image](./screenshot/1.jpeg)
-![Image](./screenshot/2.jpeg)
-![Image](./screenshot/3.jpeg)
-![Image](./screenshot/4.jpeg)
-![Image](./screenshot/5.jpeg)
-
+<img src="./screenshot/1.jpeg" width="100">
 
 ## Stack
 1. React Navigation
