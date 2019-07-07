@@ -1,11 +1,11 @@
 
 ## Tokopedia Clone React Native
 
-![Image](./screenshot/1.png?)
-![Image](./screenshot/2.png?)
-![Image](./screenshot/3.png?)
-![Image](./screenshot/4.png?)
-![Image](./screenshot/5.png?)
+![Image](./screenshot/1.png)
+![Image](./screenshot/2.png)
+![Image](./screenshot/3.png)
+![Image](./screenshot/4.png)
+![Image](./screenshot/5.png)
 
 
 ## Stack
