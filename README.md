@@ -1,8 +1,8 @@
 
 ## Tokopedia Clone React Native
 
-<img src="./screenshot/1.jpeg" width="100"><img src="./screenshot/2.jpeg" width="100"><img src="./screenshot/3.jpeg" width="100">
-<img src="./screenshot/4.jpeg" width="100"><img src="./screenshot/5.jpeg" width="100">
+<img src="./screenshot/1.jpeg" width="150"><img src="./screenshot/2.jpeg" width="150"><img src="./screenshot/3.jpeg" width="150">
+<img src="./screenshot/4.jpeg" width="100"><img src="./screenshot/5.jpeg" width="150">
 
 
 ## Stack
@@ -42,7 +42,7 @@ $ npm install
 For those of you who doesn't specify the sdk path at the variable environment yet, please adjust the sdk path on the `android/local.properties` file.
 
 ### 3. Running on your devices
-	Run the following commands at your favourite terminal:
-	* For ios `react-native run-ios` 
-	* And android `react-native run-android` 
+	* Run the following commands at your favourite terminal:
+		* For ios `react-native run-ios` 
+		* And android `react-native run-android` 
 
