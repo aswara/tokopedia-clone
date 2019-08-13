@@ -1,8 +1,8 @@
 
 ## Tokopedia Clone React Native
 
-<img src="./screenshot/1.jpeg" width="200"><img src="./screenshot/2.jpeg" width="200"><img src="./screenshot/3.jpeg" width="200">
-<img src="./screenshot/4.jpeg" width="200"><img src="./screenshot/5.jpeg" width="200">
+<img src="./screenshot/1.jpeg" width="170"><img src="./screenshot/2.jpeg" width="170"><img src="./screenshot/3.jpeg" width="170">
+<img src="./screenshot/4.jpeg" width="170"><img src="./screenshot/5.jpeg" width="170">
 
 
 ## Stack
@@ -27,30 +27,22 @@
 
 ### 2. Installation
 
-On the command prompt run the following commands
+On the command prompt,run the following commands:
 
 ```sh
 $ git clone https://github.com/aswara/tokopedia-clone.git
 
 $ cd tokopedia-clone/
 
-$ npm install
+$ npm install 
   or
   yarn
 ```
 
-### Run on iOS
+For those of you who doesn't specify the sdk path at the variable environment yet, please adjust the sdk path on the `android/local.properties` file.
 
- * Opt #1:
- 	* Run `npm start` in your terminal
-	* Scan the QR code in your Expo app
- * Opt #2:
-	* Run `npm run ios` in your terminal
+### 3. Running on your devices
+  * Run the following commands at your favourite terminal:
+	* For ios `react-native run-ios` 
+	* And android `react-native run-android` 
 
-### Run on Android
-
-  * Opt #1:
-	* Run `npm start` in your terminal
-	* Scan the QR code in your Expo app
-  * Opt #2:
-	* Run `npm run android` in your terminal
