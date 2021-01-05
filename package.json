@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "native-base": "^2.12.1",
     "react": "16.6.3",
     "react-localization": "^1.0.13",
